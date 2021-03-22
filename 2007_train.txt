@@ -1,0 +1,13 @@
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/001.jpg 156,169,421,628,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/002.jpg 176,176,428,624,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/003.jpg 118,217,500,593,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/004.jpg 204,262,400,617,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/005.jpg 190,262,383,593,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/006.jpg 80,279,376,466,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/007.jpg 76,290,380,462,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/008.jpg 238,241,438,576,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/009.jpg 321,235,559,590,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/010.jpg 104,148,383,372,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/011.jpg 97,154,397,385,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/012.jpg 31,233,335,426,0
+E:\PycharmProjects\pythonProject4/VOCdevkit/VOC2007/JPEGImages/013.jpg 69,243,356,464,0
